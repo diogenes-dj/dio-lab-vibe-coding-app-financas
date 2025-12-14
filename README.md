@@ -1,5 +1,13 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding
 
+PRD já modificado
+
+https://chatty-money-buddy.lovable.app
+
+<img width="448" height="847" alt="image" src="https://github.com/user-attachments/assets/47e66445-d8d4-4082-a7f2-3def83aa6262" />
+
+
+
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
 ## ✨ O que é Vibe Coding
@@ -77,9 +85,9 @@ No README do seu repositório, inclua:
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+  - O que funcionou bem?  Tudo funcionou muito bem
+  - O que não funcionou como o esperado?  Modo gratuito
+  - O que aprendeu sobre conversar com IAs? Quanto mais detalhar menor chance dela sair do esperado
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
